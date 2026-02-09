@@ -1,3 +1,8 @@
+# Migrated to grocy-py
+Due to naming, this project couldn't follow semver and to solve it by reseting a versioning and slightly changing a name to https://github.com/iamkarlson/grocy-py 
+
+Please address all of you questions and concerns there
+
 # pygrocy2
 Check out [source code reference docs](https://iamkarlson.github.io/pygrocy2/)
 
